@@ -16,6 +16,7 @@
     "id": 2,
     "plan": "Standard",
     "price": "$25 /month",
+    "popular": true,
     "features": [
       "Full Gym Access",
       "Locker Access",

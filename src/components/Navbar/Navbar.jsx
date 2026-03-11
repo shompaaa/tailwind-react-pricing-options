@@ -33,7 +33,7 @@ const navigationsData = [
 const Navbar = () => {
   const [open, setOpen] = useState(false);
 
-  const links = navigationsData.map((route) => <Link route={route}></Link>);
+  const links = navigationsData.map((route,index) => <Link key={index} route={route}></Link>);
 
   return (
     <div>
