@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "plan": "Basic",
+    "price": "$15 /month",
+    "features": [
+      "Gym Access",
+      "Locker Access",
+      "Free WiFi",
+      "1 Free Fitness Assessment",
+      "Access to Cardio Equipment",
+      "Mobile App Access"
+    ]
+  },
+  {
+    "id": 2,
+    "plan": "Standard",
+    "price": "$25 /month",
+    "features": [
+      "Full Gym Access",
+      "Locker Access",
+      "Free WiFi",
+      "Group Fitness Classes",
+      "2 Personal Training Sessions",
+      "Access to Cardio & Strength Equipment",
+      "Body Composition Analysis",
+      "Mobile App Access"
+    ]
+  },
+  {
+    "id": 3,
+    "plan": "Premium",
+    "price": "$45 /month",
+    "features": [
+      "24/7 Gym Access",
+      "Private Locker",
+      "Unlimited Group Classes",
+      "Personal Trainer",
+      "Customized Workout Plan",
+      "Nutrition Guidance",
+      "Sauna & Steam Room Access",
+      "Priority Support",
+      "Mobile App Access"
+    ]
+  }
+]
