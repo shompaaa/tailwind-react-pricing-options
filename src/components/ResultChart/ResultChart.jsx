@@ -55,9 +55,9 @@ const ResultChart = () => {
           </div>
           <div>
             <BarChart width={400} height={300} data={resultData}>
-              <Bar dataKey={'physics'}></Bar>
-              <Bar dataKey={'chemistry'}></Bar>
-              <Bar dataKey={'math'}></Bar>
+              <Bar dataKey={'physics'} fill='red'></Bar>
+              <Bar dataKey={'chemistry'} fill='green'></Bar>
+              <Bar dataKey={'math'} fill='pink'></Bar>
             <XAxis dataKey={'name'}></XAxis>
             <YAxis></YAxis>
             </BarChart>
